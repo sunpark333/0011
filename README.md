@@ -17,6 +17,7 @@ Please do start and max fork thanks
 
 ## 🔧 Features
 - Extract content from both public and private channels/groups.
+- Custom bot functionality added use `/setbot`
 - 128 bit encryption for data saving use @v3saverbot on telegram to generate `MASTER_KEY`, `IV_KEY`
 - Rename and forward content to other channels or users.
 - extract restricted content from other bots how to use format link like `https://botusername(without @)/message_id(get it from plus messenger)`
@@ -42,6 +43,8 @@ Please do start and max fork thanks
 - **`start`**: 🚀 Start the bot.
 - **`batch`**: 🫠 Extract in bulk.
 - **`login`**: 🔑 Get into the bot.
+- **`single`**: Process single link.
+- **`setbot`**: add your custome bot.
 - **`logout`**: 🚪 Get out of the bot.
 - **`adl`**: 👻 Download audio from 30+ sites.
 - **`dl`**: 💀 Download videos from 30+ sites.
@@ -49,6 +52,7 @@ Please do start and max fork thanks
 - **`status`**: ⌛ Get your plan details.
 - **`add`**: ➕ Add user to premium.
 - **`rem`**: ➖ Remove user from premium.
+- **`rembot`**: remove your custome bot.
 - **`session`**: 🧵 Generate Pyrogramv2 session.
 - **`settings`**: ⚙️ Personalize settings.
 - **`stats`**: 📊 Get stats of the bot.
