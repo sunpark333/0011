@@ -36,3 +36,4 @@ JOIN_LINK = os.getenv("JOIN_LINK", "https://t.me/slowlories_src") # this link fo
 ADMIN_CONTACT = os.getenv("ADMIN_CONTACT", "https://t.me/Slowries")
 
 
+
